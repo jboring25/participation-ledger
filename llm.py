@@ -5,10 +5,7 @@ Zero dependencies, standard library only, same pattern as the council skill.
 import json, os, socket, time, urllib.error, urllib.request
 
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
-KEY_FILES = [
-    os.path.expanduser("~/.config/council/gemini_key"),
-    os.path.expanduser("~/Athena/.claude/skills/council/gemini_key"),
-]
+KEY_FILES = [os.path.expanduser("~/.config/gemini_key")]
 
 
 def _key() -> str:
