@@ -152,6 +152,20 @@ Published up front rather than discovered by a critic. Full list in
 Early. Two records. The method was written before the second city so that any
 later change to the rules is visible rather than retroactive.
 
+## Why the limits are published up front
+
+Because the last time I put something in front of judges, I had not done that.
+
+[storge-pitch-retrospective](https://github.com/jboring25/storge-pitch-retrospective)
+is the full record of a venture I pitched through three rounds of ASU's Venture
+Devils competition without being able to build it. Nine judges, every scorecard
+published unedited. The same criticism appeared in all three rounds and I never
+answered it, because you cannot describe how something works when it does not
+exist yet.
+
+This project is built the other way round. The thing works first, and everything
+it cannot do yet is written down before anyone has to ask.
+
 ## License
 
 MIT. The underlying records are public documents.
